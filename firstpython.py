@@ -1,2 +1,2 @@
 # Display the output
-print("New Puthon file")
+print("New Python file")
